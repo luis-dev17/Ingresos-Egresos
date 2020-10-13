@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-6b7ef": {
+      "hosting": {
+        "Ingresos-Egresos": [
+          "ingreso-egreso-6b7ef"
+        ]
+      }
+    }
+  }
+}
