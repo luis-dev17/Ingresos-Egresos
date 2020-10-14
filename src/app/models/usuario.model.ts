@@ -2,7 +2,7 @@
 
 export class Usuario {
 
-    static fromFirebase( { nombre,email, uid  } ) {
+    static fromFirebase( { email, uid, nombre } ) {
         return new Usuario( uid, nombre, email );
     }
 
